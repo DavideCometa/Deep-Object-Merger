@@ -1,0 +1,22 @@
+{
+  "name": "deep-object-merger",
+  "version": "1.0.2",
+  "description": "Deep merge 1 or more objects over a target object",
+  "main": "DeepObjectMerger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/DavideCometa/Deep-Object-Merger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavideCometa/Deep-Object-Merger"
+  },
+  "keywords": [
+    "deep",
+    "object",
+    "merger",
+    "recursion"
+  ],
+  "author": "DavideCometa",
+  "license": "ISC"
+}
