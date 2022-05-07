@@ -8,7 +8,7 @@ You can add as many sources object as you want but the first object passed will 
 # Usage example:
 
 ```js
-var deepMerge = require('./DeepObjectMerger')
+var deepMerge = require('deep-object-merger')
 ```
 
 Let's suppose we have 3 complex JSON objects and we want to merge userData2 and userData3 over userData1:
